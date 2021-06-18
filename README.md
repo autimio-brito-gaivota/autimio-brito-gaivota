@@ -1,8 +1,5 @@
 ### Hi there 👋 :man_technologist:
 
-![Autímio's github stats](https://github-readme-stats.vercel.app/api?username=autimio-brito-gaivota&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=autimio-brito-gaivota&layout=compact&theme=tokyonight)
-
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
