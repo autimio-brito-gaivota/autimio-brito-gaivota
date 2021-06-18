@@ -15,7 +15,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgis)
+![PostGis](https://img.shields.io/badge/-PostGis-black?style=flat-square&logo=postgis)
 ![MapBox](https://img.shields.io/badge/-MapBox-black?style=flat-square&logo=mapbox)
 ![Qgis](https://img.shields.io/badge/-QGis-black?style=flat-square&logo=qgis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
